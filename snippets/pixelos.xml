@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+  <project path="build/make" name="android_build" groups="pdk,sysui-studio" remote="pixelos">
+    <linkfile src="CleanSpec.mk" dest="build/CleanSpec.mk" />
+    <linkfile src="buildspec.mk.default" dest="build/buildspec.mk.default" />
+    <linkfile src="core" dest="build/core" />
+    <linkfile src="envsetup.sh" dest="build/envsetup.sh" />
+    <linkfile src="target" dest="build/target" />
+    <linkfile src="tools" dest="build/tools" />
+  </project>
+
+  <project path="build/soong" name="android_build_soong" groups="pdk,tradefed,sysui-studio" remote="pixelos">
+    <linkfile src="root.bp" dest="Android.bp" />
+    <linkfile src="bootstrap.bash" dest="bootstrap.bash" />
+  </project>
+
+  <project path="external/dtc" name="android_external_dtc" groups="pdk" remote="pixelos" />
+  <project path="external/zstd" name="android_external_zstd" groups="pdk" remote="pixelos" />
+
+  <project path="frameworks/av" name="android_frameworks_av" groups="pdk,sysui-studio" remote="pixelos" />
+  <project path="frameworks/base" name="android_frameworks_base" groups="pdk-cw-fs,pdk-fs,sysui-studio" remote="pixelos" />
+  <project path="frameworks/native" name="android_frameworks_native" groups="pdk" remote="pixelos" />
+
+  <project path="hardware/google/pixel" name="android_hardware_google_pixel" groups="generic_fs,pixel,pdk-gs-arm,pdk-gs-imgtec,pdk-desktop" remote="pixelos" />
+  <project path="hardware/libhardware" name="android_hardware_libhardware" groups="pdk" remote="pixelos" />
+
+  <project path="packages/apps/Settings" name="android_packages_apps_Settings" groups="pdk-fs,pdk-cw-tvc,sysui-studio" remote="pixelos" />
+
+  <project path="packages/modules/adb" name="android_packages_modules_adb" groups="pdk" remote="pixelos" />
+  <project path="packages/modules/common" name="android_packages_modules_common" groups="pdk-cw-fs,pdk-fs" remote="pixelos" />
+
+  <project path="system/core" name="android_system_core" groups="pdk" remote="pixelos" />
+  <project path="system/logging" name="android_system_logging" groups="pdk" remote="pixelos" />
+  <project path="system/sepolicy" name="android_system_sepolicy" groups="pdk" remote="pixelos" />
+
+  <project path="vendor/lineage" name="android_vendor_lineage" remote="pixelos" />
+  <project path="vendor/custom" name="android_vendor_custom" remote="pixelos" />
+
+  <!-- google/pixel apps -->
+  <project path="vendor/pixel/extract-utils" remote="gitlab" name="loonage/android_vendor_pixel_extract-utils" revision="android-16" />
+  <project path="vendor/pixel/clocks" remote="gitlab" name="loonage/proprietary_vendor_pixel_clocks" revision="android-16" />
+  <project path="vendor/pixel/gms" remote="gitlab" name="loonage/proprietary_vendor_pixel_gms" revision="android-16" />
+  <project path="vendor/pixel/gsans" remote="gitlab" name="loonage/proprietary_vendor_pixel_gsans" revision="android-16" />
+  <project path="vendor/pixel/launcher" remote="gitlab" name="loonage/proprietary_vendor_pixel_launcher" revision="android-16" />
+  <project path="vendor/pixel/sounds" remote="gitlab" name="loonage/proprietary_vendor_pixel_sounds" revision="android-16" />
+  <project path="vendor/pixel/themepicker" remote="gitlab" name="loonage/proprietary_vendor_pixel_themepicker" revision="android-16" />
+</manifest>
