@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+  <project path="bootable/deprecated-ota" name="android_bootable_deprecated-ota" groups="pdk-cw" remote="LineageOS" />
+  <project path="build/make" name="android_build" groups="pdk,sysui-studio" remote="github">
+    <linkfile src="CleanSpec.mk" dest="build/CleanSpec.mk" />
+    <linkfile src="buildspec.mk.default" dest="build/buildspec.mk.default" />
+    <linkfile src="core" dest="build/core" />
+    <linkfile src="envsetup.sh" dest="build/envsetup.sh" />
+    <linkfile src="target" dest="build/target" />
+    <linkfile src="tools" dest="build/tools" />
+  </project>
+
+  <project path="build/soong" name="android_build_soong" groups="pdk,tradefed,sysui-studio" remote="github">
+    <linkfile src="root.bp" dest="Android.bp" />
+    <linkfile src="bootstrap.bash" dest="bootstrap.bash" />
+  </project>
+
+  <project path="external/dtc" name="android_external_dtc" groups="pdk" remote="github" />
+  <project path="external/zstd" name="android_external_zstd" groups="pdk" remote="github" />
+
+  <project path="frameworks/av" name="android_frameworks_av" groups="pdk,sysui-studio" remote="github" />
+  <project path="frameworks/base" name="android_frameworks_base" groups="pdk-cw-fs,pdk-fs,sysui-studio" remote="github" />
+  <project path="frameworks/native" name="android_frameworks_native" groups="pdk" remote="github" />
+
+  <project path="hardware/google/pixel" name="android_hardware_google_pixel" groups="generic_fs,pixel,pdk-gs-arm,pdk-gs-imgtec,pdk-desktop" remote="github" />
+  <project path="hardware/libhardware" name="android_hardware_libhardware" groups="pdk" remote="github" />
+
+  <project path="kernel/configs" name="android_kernel_configs" groups="vts,pdk" remote="github" />
+
+  <project path="packages/apps/Settings" name="android_packages_apps_Settings" groups="pdk-fs,pdk-cw-tvc,sysui-studio" remote="github" />
+
+  <project path="packages/modules/adb" name="android_packages_modules_adb" groups="pdk" remote="github" />
+  <project path="packages/modules/common" name="android_packages_modules_common" groups="pdk-cw-fs,pdk-fs" remote="github" />
+
+  <project path="system/core" name="android_system_core" groups="pdk" remote="github" />
+  <project path="system/logging" name="android_system_logging" groups="pdk" remote="github" />
+  <project path="system/sepolicy" name="android_system_sepolicy" groups="pdk" remote="github" />
+
+  <project path="vendor/lineage" name="android_vendor_lineage" remote="github" />
+  <project path="vendor/custom" name="android_vendor_custom" remote="github" />
+
+  <!-- google/pixel apps -->
+  <project path="vendor/pixel/extract-utils" name="android_vendor_pixel_extract-utils" remote="gitlab" revision="sixteen" />
+  <project path="vendor/pixel/clocks" name="proprietary_vendor_pixel_clocks" remote="gitlab" revision="sixteen" />
+  <project path="vendor/pixel/gms" name="proprietary_vendor_pixel_gms" remote="gitlab" revision="sixteen" />
+  <project path="vendor/pixel/gsans" name="proprietary_vendor_pixel_gsans" remote="gitlab" revision="sixteen" />
+  <project path="vendor/pixel/launcher" name="proprietary_vendor_pixel_launcher" remote="gitlab" revision="sixteen" />
+  <project path="vendor/pixel/sounds" name="proprietary_vendor_pixel_sounds" remote="gitlab" revision="sixteen" />
+  <project path="vendor/pixel/themepicker" name="proprietary_vendor_pixel_themepicker" remote="gitlab" revision="sixteen" />
+</manifest>
