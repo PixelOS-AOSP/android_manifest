@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "8710d222_b26cf3bd",
+        "filename": "default.xml",
+        "patchSetId": 20
+      },
+      "lineNbr": 18,
+      "author": {
+        "id": 1000000
+      },
+      "writtenOn": "2025-08-28T13:41:49Z",
+      "side": 1,
+      "message": "Let GitHub and gitlab point to the base site, if we want to do external deps with roomservice",
+      "revId": "4ff1ebcf964d670d682a3d98e11ee7141846f494",
+      "serverId": "58543e18-2196-4633-8043-7787712585ad"
+    }
+  ]
+}
