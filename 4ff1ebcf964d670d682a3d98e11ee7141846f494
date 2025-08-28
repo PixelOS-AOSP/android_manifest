@@ -16,6 +16,24 @@
       "message": "Let GitHub and gitlab point to the base site, if we want to do external deps with roomservice",
       "revId": "4ff1ebcf964d670d682a3d98e11ee7141846f494",
       "serverId": "58543e18-2196-4633-8043-7787712585ad"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "a641059e_1b5c5c82",
+        "filename": "default.xml",
+        "patchSetId": 20
+      },
+      "lineNbr": 18,
+      "author": {
+        "id": 1000003
+      },
+      "writtenOn": "2025-08-28T13:56:37Z",
+      "side": 1,
+      "message": "Done",
+      "parentUuid": "8710d222_b26cf3bd",
+      "revId": "4ff1ebcf964d670d682a3d98e11ee7141846f494",
+      "serverId": "58543e18-2196-4633-8043-7787712585ad"
     }
   ]
 }
