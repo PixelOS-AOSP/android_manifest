@@ -6,7 +6,7 @@
            review="https://android-review.googlesource.com/" />
 
   <remote  name="lineageos"
-           fetch="https://github.com/LineageOS"
+           fetch=".."
            revision="refs/heads/lineage-23.0"
            review="review.lineageos.org" />
 
