@@ -12,12 +12,12 @@
 
   <remote  name="github"
            fetch=".."
-           revision="refs/heads/sixteen"
+           revision="refs/heads/sixteen-qpr1"
            review="review.pixelos.net" />
 
   <remote  name="gitlab"
            fetch="https://gitlab.com/"
-           revision="sixteen" />
+           revision="sixteen-qpr1" />
 
   <default revision="refs/tags/android-16.0.0_r3"
            remote="aosp"
