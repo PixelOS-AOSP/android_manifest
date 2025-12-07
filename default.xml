@@ -7,7 +7,7 @@
 
   <remote  name="lineageos"
            fetch=".."
-           revision="refs/heads/lineage-23.0"
+           revision="refs/heads/lineage-23.1"
            review="review.lineageos.org" />
 
   <remote  name="github"
