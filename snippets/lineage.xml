@@ -17,8 +17,6 @@
   <project path="hardware/lineage/interfaces" name="LineageOS/android_hardware_lineage_interfaces" remote="lineageos" />
   <project path="packages/apps/Aperture" name="LineageOS/android_packages_apps_Aperture" remote="lineageos" />
   <project path="packages/apps/FMRadio" name="LineageOS/android_packages_apps_FMRadio" remote="lineageos" />
-  <project path="packages/apps/SimpleDeviceConfig" name="LineageOS/android_packages_apps_SimpleDeviceConfig" remote="lineageos" />
-  <project path="packages/apps/SimpleSettingsConfig" name="LineageOS/android_packages_apps_SimpleSettingsConfig" remote="lineageos" />
   <project path="packages/resources/devicesettings" name="LineageOS/android_packages_resources_devicesettings" remote="lineageos" />
   <project path="packages/overlays/Lineage" name="LineageOS/android_packages_overlays_Lineage" remote="lineageos" />
   <project path="prebuilts/extract-tools" name="LineageOS/android_prebuilts_extract-tools" clone-depth="1" remote="lineageos" />
