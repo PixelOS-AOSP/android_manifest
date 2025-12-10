@@ -66,7 +66,7 @@
   <project path="vendor/custom-preference" name="PixelOS-AOSP/android_vendor_custom-preference" remote="github" />
 
   <!-- Tools -->
-  <project path="custom/scripts" name="PixelOS-AOSP/scripts" groups="tools" remote="github" revision="main" />
+  <project path="lineage/scripts" name="PixelOS-AOSP/scripts" groups="tools" remote="github" revision="main" />
 
   <!-- google/pixel apps -->
   <project path="vendor/pixel/extract-utils" name="PixelOS-AOSP/android_vendor_pixel_extract-utils" remote="gitlab" revision="sixteen" >
