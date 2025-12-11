@@ -87,6 +87,30 @@
       },
       "revId": "f568792ecd0940790dc67c98b2be2b8487bbf370",
       "serverId": "58543e18-2196-4633-8043-7787712585ad"
+    },
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "4a2ec7b1_dcba7b62",
+        "filename": "README.md",
+        "patchSetId": 7
+      },
+      "lineNbr": 28,
+      "author": {
+        "id": 1000053
+      },
+      "writtenOn": "2025-12-11T17:45:31Z",
+      "side": 1,
+      "message": "Yeah it kind of sounds off",
+      "parentUuid": "7e4445fe_cfe62641",
+      "range": {
+        "startLine": 28,
+        "startChar": 47,
+        "endLine": 28,
+        "endChar": 52
+      },
+      "revId": "f568792ecd0940790dc67c98b2be2b8487bbf370",
+      "serverId": "58543e18-2196-4633-8043-7787712585ad"
     }
   ]
 }
