@@ -1,0 +1,119 @@
+{
+  "comments": [
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "cc4739cb_4ab7630e",
+        "filename": "README.md",
+        "patchSetId": 4
+      },
+      "lineNbr": 5,
+      "author": {
+        "id": 1000039
+      },
+      "writtenOn": "2025-12-11T17:08:45Z",
+      "side": 1,
+      "message": "```suggestion\nTo get started with the PixelOS source code, you\u0027ll need to be\n```",
+      "range": {
+        "startLine": 5,
+        "startChar": 32,
+        "endLine": 5,
+        "endChar": 39
+      },
+      "revId": "7eb2a72575387a86687afb07c4e3886299681927",
+      "serverId": "58543e18-2196-4633-8043-7787712585ad"
+    },
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "39a4fdd5_b1e67e8c",
+        "filename": "README.md",
+        "patchSetId": 4
+      },
+      "lineNbr": 14,
+      "author": {
+        "id": 1000039
+      },
+      "writtenOn": "2025-12-11T17:08:45Z",
+      "side": 1,
+      "message": "```suggestion\nThen, sync the repository:\n```",
+      "range": {
+        "startLine": 14,
+        "startChar": 0,
+        "endLine": 14,
+        "endChar": 13
+      },
+      "revId": "7eb2a72575387a86687afb07c4e3886299681927",
+      "serverId": "58543e18-2196-4633-8043-7787712585ad"
+    },
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "8f762c77_0a4d09b6",
+        "filename": "README.md",
+        "patchSetId": 4
+      },
+      "lineNbr": 22,
+      "author": {
+        "id": 1000039
+      },
+      "writtenOn": "2025-12-11T17:08:45Z",
+      "side": 1,
+      "message": "```suggestion\nInitialize the ROM build environment by sourcing the envsetup.sh script.\n```",
+      "range": {
+        "startLine": 22,
+        "startChar": 0,
+        "endLine": 22,
+        "endChar": 59
+      },
+      "revId": "7eb2a72575387a86687afb07c4e3886299681927",
+      "serverId": "58543e18-2196-4633-8043-7787712585ad"
+    },
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "61adb126_0658c81b",
+        "filename": "README.md",
+        "patchSetId": 4
+      },
+      "lineNbr": 28,
+      "author": {
+        "id": 1000039
+      },
+      "writtenOn": "2025-12-11T17:08:45Z",
+      "side": 1,
+      "message": "```suggestion\nAfter cloning the device specific sources, use lunch to configure the build for your device:\n```",
+      "range": {
+        "startLine": 28,
+        "startChar": 0,
+        "endLine": 28,
+        "endChar": 61
+      },
+      "revId": "7eb2a72575387a86687afb07c4e3886299681927",
+      "serverId": "58543e18-2196-4633-8043-7787712585ad"
+    },
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "072c9ec7_90214ff1",
+        "filename": "README.md",
+        "patchSetId": 4
+      },
+      "lineNbr": 34,
+      "author": {
+        "id": 1000039
+      },
+      "writtenOn": "2025-12-11T17:08:45Z",
+      "side": 1,
+      "message": "```suggestion\nStart the compilation\n```",
+      "range": {
+        "startLine": 34,
+        "startChar": 0,
+        "endLine": 34,
+        "endChar": 17
+      },
+      "revId": "7eb2a72575387a86687afb07c4e3886299681927",
+      "serverId": "58543e18-2196-4633-8043-7787712585ad"
+    }
+  ]
+}
