@@ -1,0 +1,27 @@
+{
+  "comments": [
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "62e2a58b_78d9b24f",
+        "filename": "README.md",
+        "patchSetId": 2
+      },
+      "lineNbr": 8,
+      "author": {
+        "id": 1000039
+      },
+      "writtenOn": "2025-12-11T16:44:53Z",
+      "side": 1,
+      "message": "```suggestion\nTo initialize your local repository, use the command:\n```",
+      "range": {
+        "startLine": 8,
+        "startChar": 37,
+        "endLine": 8,
+        "endChar": 49
+      },
+      "revId": "91e8baa99a9efefbc3ac3f3573dd5d2628713745",
+      "serverId": "58543e18-2196-4633-8043-7787712585ad"
+    }
+  ]
+}
