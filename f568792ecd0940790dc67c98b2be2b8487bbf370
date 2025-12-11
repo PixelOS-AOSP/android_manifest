@@ -1,0 +1,44 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "1a1f0f23_f5302baf",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 7
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 1000039
+      },
+      "writtenOn": "2025-12-11T17:40:32Z",
+      "side": 1,
+      "message": "Hold on,",
+      "revId": "f568792ecd0940790dc67c98b2be2b8487bbf370",
+      "serverId": "58543e18-2196-4633-8043-7787712585ad"
+    },
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "dab456cb_f0a5cd3b",
+        "filename": "README.md",
+        "patchSetId": 7
+      },
+      "lineNbr": 28,
+      "author": {
+        "id": 1000039
+      },
+      "writtenOn": "2025-12-11T17:40:32Z",
+      "side": 1,
+      "message": "```suggestion\nAfter cloning the device-specific sources, use breakfast to set up the build for your device:\n```\nForgot this",
+      "range": {
+        "startLine": 28,
+        "startChar": 47,
+        "endLine": 28,
+        "endChar": 52
+      },
+      "revId": "f568792ecd0940790dc67c98b2be2b8487bbf370",
+      "serverId": "58543e18-2196-4633-8043-7787712585ad"
+    }
+  ]
+}
