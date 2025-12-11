@@ -113,6 +113,30 @@
       "serverId": "58543e18-2196-4633-8043-7787712585ad"
     },
     {
+      "unresolved": false,
+      "key": {
+        "uuid": "e61a100c_0b7ee56d",
+        "filename": "README.md",
+        "patchSetId": 2
+      },
+      "lineNbr": 8,
+      "author": {
+        "id": 1000053
+      },
+      "writtenOn": "2025-12-11T16:58:45Z",
+      "side": 1,
+      "message": "Acknowledged",
+      "parentUuid": "34048fa4_12f3e3d9",
+      "range": {
+        "startLine": 8,
+        "startChar": 37,
+        "endLine": 8,
+        "endChar": 49
+      },
+      "revId": "91e8baa99a9efefbc3ac3f3573dd5d2628713745",
+      "serverId": "58543e18-2196-4633-8043-7787712585ad"
+    },
+    {
       "unresolved": true,
       "key": {
         "uuid": "dba6935d_86460a15",
@@ -126,6 +150,30 @@
       "writtenOn": "2025-12-11T16:47:27Z",
       "side": 1,
       "message": "Maybe, move this to come after the lunch command",
+      "range": {
+        "startLine": 42,
+        "startChar": 0,
+        "endLine": 45,
+        "endChar": 35
+      },
+      "revId": "91e8baa99a9efefbc3ac3f3573dd5d2628713745",
+      "serverId": "58543e18-2196-4633-8043-7787712585ad"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "ff4c65e7_45c35bc0",
+        "filename": "README.md",
+        "patchSetId": 2
+      },
+      "lineNbr": 45,
+      "author": {
+        "id": 1000053
+      },
+      "writtenOn": "2025-12-11T16:58:45Z",
+      "side": 1,
+      "message": "Adarsh asked to use breakfast instead so I removed it",
+      "parentUuid": "dba6935d_86460a15",
       "range": {
         "startLine": 42,
         "startChar": 0,
