@@ -72,6 +72,29 @@
     {
       "unresolved": true,
       "key": {
+        "uuid": "9a0ce906_5d9fa175",
+        "filename": "README.md",
+        "patchSetId": 4
+      },
+      "lineNbr": 25,
+      "author": {
+        "id": 1000019
+      },
+      "writtenOn": "2025-12-11T17:13:47Z",
+      "side": 1,
+      "message": "please use \u0027source build/envsetup.sh\u0027",
+      "range": {
+        "startLine": 25,
+        "startChar": 0,
+        "endLine": 25,
+        "endChar": 19
+      },
+      "revId": "7eb2a72575387a86687afb07c4e3886299681927",
+      "serverId": "58543e18-2196-4633-8043-7787712585ad"
+    },
+    {
+      "unresolved": true,
+      "key": {
         "uuid": "61adb126_0658c81b",
         "filename": "README.md",
         "patchSetId": 4
