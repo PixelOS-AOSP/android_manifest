@@ -39,6 +39,30 @@
       },
       "revId": "f568792ecd0940790dc67c98b2be2b8487bbf370",
       "serverId": "58543e18-2196-4633-8043-7787712585ad"
+    },
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "7e4445fe_cfe62641",
+        "filename": "README.md",
+        "patchSetId": 7
+      },
+      "lineNbr": 28,
+      "author": {
+        "id": 1000019
+      },
+      "writtenOn": "2025-12-11T17:43:09Z",
+      "side": 1,
+      "message": "\u0027set up the build\u0027 sounds weird",
+      "parentUuid": "dab456cb_f0a5cd3b",
+      "range": {
+        "startLine": 28,
+        "startChar": 47,
+        "endLine": 28,
+        "endChar": 52
+      },
+      "revId": "f568792ecd0940790dc67c98b2be2b8487bbf370",
+      "serverId": "58543e18-2196-4633-8043-7787712585ad"
     }
   ]
 }
