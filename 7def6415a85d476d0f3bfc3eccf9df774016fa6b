@@ -22,6 +22,30 @@
       },
       "revId": "7def6415a85d476d0f3bfc3eccf9df774016fa6b",
       "serverId": "58543e18-2196-4633-8043-7787712585ad"
+    },
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "27c3987c_04f4ba0c",
+        "filename": "README.md",
+        "patchSetId": 1
+      },
+      "lineNbr": 31,
+      "author": {
+        "id": 1000019
+      },
+      "writtenOn": "2025-12-11T15:22:34Z",
+      "side": 1,
+      "message": "\u003e Can this be a bit more generic? Checkout our old manifest README.\nYea breakfast should do the trick",
+      "parentUuid": "859b9bd4_20b63c66",
+      "range": {
+        "startLine": 31,
+        "startChar": 0,
+        "endLine": 31,
+        "endChar": 2
+      },
+      "revId": "7def6415a85d476d0f3bfc3eccf9df774016fa6b",
+      "serverId": "58543e18-2196-4633-8043-7787712585ad"
     }
   ]
 }
