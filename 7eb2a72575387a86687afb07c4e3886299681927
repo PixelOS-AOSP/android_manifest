@@ -18,6 +18,24 @@
       "serverId": "58543e18-2196-4633-8043-7787712585ad"
     },
     {
+      "unresolved": false,
+      "key": {
+        "uuid": "b9abb425_4ac576bf",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 4
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 1000053
+      },
+      "writtenOn": "2025-12-11T17:31:55Z",
+      "side": 1,
+      "message": "Added. Not sure if it needs any additions, though",
+      "parentUuid": "7c14168e_63c06099",
+      "revId": "7eb2a72575387a86687afb07c4e3886299681927",
+      "serverId": "58543e18-2196-4633-8043-7787712585ad"
+    },
+    {
       "unresolved": true,
       "key": {
         "uuid": "cc4739cb_4ab7630e",
