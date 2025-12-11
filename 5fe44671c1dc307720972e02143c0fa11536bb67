@@ -24,6 +24,30 @@
       "serverId": "58543e18-2196-4633-8043-7787712585ad"
     },
     {
+      "unresolved": false,
+      "key": {
+        "uuid": "25024b78_439583ce",
+        "filename": "README.md",
+        "patchSetId": 5
+      },
+      "lineNbr": 22,
+      "author": {
+        "id": 1000053
+      },
+      "writtenOn": "2025-12-11T17:31:30Z",
+      "side": 1,
+      "message": "Acknowledged",
+      "parentUuid": "49b92f3a_417bd27e",
+      "range": {
+        "startLine": 22,
+        "startChar": 71,
+        "endLine": 22,
+        "endChar": 72
+      },
+      "revId": "5fe44671c1dc307720972e02143c0fa11536bb67",
+      "serverId": "58543e18-2196-4633-8043-7787712585ad"
+    },
+    {
       "unresolved": true,
       "key": {
         "uuid": "e6b19079_ce6c2f53",
@@ -37,6 +61,30 @@
       "writtenOn": "2025-12-11T17:23:50Z",
       "side": 1,
       "message": "```suggestion\nStart the compilation:\n```\nSame",
+      "range": {
+        "startLine": 34,
+        "startChar": 0,
+        "endLine": 34,
+        "endChar": 21
+      },
+      "revId": "5fe44671c1dc307720972e02143c0fa11536bb67",
+      "serverId": "58543e18-2196-4633-8043-7787712585ad"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "ff0cefce_9329a065",
+        "filename": "README.md",
+        "patchSetId": 5
+      },
+      "lineNbr": 34,
+      "author": {
+        "id": 1000053
+      },
+      "writtenOn": "2025-12-11T17:31:30Z",
+      "side": 1,
+      "message": "Acknowledged",
+      "parentUuid": "e6b19079_ce6c2f53",
       "range": {
         "startLine": 34,
         "startChar": 0,
