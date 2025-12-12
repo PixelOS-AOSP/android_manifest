@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "c918fd92_1a84ba58",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 2
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 1000003
+      },
+      "writtenOn": "2025-12-12T11:28:05Z",
+      "side": 1,
+      "message": "Not accepting changes for QPR2 right now.",
+      "revId": "8388d47e7d979958a8c2658086c5c74f4d214735",
+      "serverId": "58543e18-2196-4633-8043-7787712585ad"
+    }
+  ]
+}
