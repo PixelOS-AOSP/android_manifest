@@ -64,9 +64,13 @@
   <project path="vendor/lineage" name="PixelOS-AOSP/android_vendor_lineage" remote="github" />
   <project path="vendor/custom" name="PixelOS-AOSP/android_vendor_custom" remote="github" />
   <project path="vendor/custom-preference" name="PixelOS-AOSP/android_vendor_custom-preference" remote="github" />
+  <project path="vendor/crowdin" name="PixelOS-AOSP/android_vendor_crowdin" remote="github" />
 
   <!-- Tools -->
   <project path="lineage/scripts" name="PixelOS-AOSP/scripts" groups="tools" remote="github" revision="main" />
+
+  <!-- Infrastructure -->
+  <project path="lineage/crowdin" name="PixelOS-AOSP/cm_crowdin" groups="infra" remote="github" revision="main" />
 
   <!-- google/pixel apps -->
   <project path="vendor/pixel/extract-utils" name="PixelOS-AOSP/android_vendor_pixel_extract-utils" remote="gitlab" revision="sixteen" >
