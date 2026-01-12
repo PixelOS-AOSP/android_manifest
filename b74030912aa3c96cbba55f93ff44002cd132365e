@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "63f851a4_ab5dee37",
+        "filename": "snippets/pixelos.xml",
+        "patchSetId": 4
+      },
+      "lineNbr": 80,
+      "author": {
+        "id": 1000053
+      },
+      "writtenOn": "2026-01-12T07:32:13Z",
+      "side": 1,
+      "message": "Shouldn\u0027t it be gms-16.2?",
+      "revId": "b74030912aa3c96cbba55f93ff44002cd132365e",
+      "serverId": "58543e18-2196-4633-8043-7787712585ad"
+    }
+  ]
+}
