@@ -1,5 +1,23 @@
 {
-  "comments": [],
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "1b9e1f7b_def87787",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 1000003
+      },
+      "writtenOn": "2026-02-14T07:48:24Z",
+      "side": 1,
+      "message": "Any device needing this can restore later.",
+      "revId": "b4ea0abd0293700b930c0c9246acd29bbf1da7e5",
+      "serverId": "58543e18-2196-4633-8043-7787712585ad"
+    }
+  ],
   "submitRequirementResults": [
     {
       "submitRequirement": {
