@@ -39,6 +39,7 @@
   <remove-project name="platform/packages/modules/Connectivity" />
   <remove-project name="platform/packages/modules/Permission" />
   <remove-project name="platform/packages/modules/UprobeStats" />
+  <remove-project name="platform/packages/modules/Virtualization" />
   <remove-project name="platform/packages/modules/Wifi" />
   <remove-project name="platform/packages/services/DeviceAsWebcam" />
   <remove-project name="platform/packages/services/Telecomm" />
