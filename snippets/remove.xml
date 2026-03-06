@@ -31,6 +31,7 @@
   <remove-project name="platform/hardware/samsung/nfc" />
   <remove-project name="platform/hardware/st/nfc" />
   <remove-project name="platform/packages/apps/Settings" />
+  <remove-project name="platform/packages/providers/MediaProvider" />
   <remove-project name="platform/packages/modules/common" />
   <remove-project name="platform/packages/modules/adb" />
   <remove-project name="platform/packages/modules/Bluetooth" />
