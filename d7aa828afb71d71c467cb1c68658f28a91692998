@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "f2425198_9cce0c91",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 1000053
+      },
+      "writtenOn": "2026-04-09T01:58:46Z",
+      "side": 1,
+      "message": "Apparently a recurrence of https://review.pixelos.net/c/PixelOS-AOSP/android_hardware_xiaomi/+/1080",
+      "revId": "d7aa828afb71d71c467cb1c68658f28a91692998",
+      "serverId": "58543e18-2196-4633-8043-7787712585ad"
+    }
+  ]
+}
