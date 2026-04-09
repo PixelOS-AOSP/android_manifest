@@ -12,7 +12,7 @@
   <project path="external/rsync" name="LineageOS/android_external_rsync" remote="lineageos" />
   <project path="external/unrar" name="LineageOS/android_external_unrar" remote="lineageos" />
   <project path="external/vim" name="LineageOS/android_external_vim" remote="lineageos" />
-  <project path="hardware/lineage/compat" name="LineageOS/android_hardware_lineage_compat" remote="lineageos" />
+  <project path="hardware/lineage/compat" name="LineageOS/android_hardware_lineage_compat" remote="lineageos" revision="refs/changes/95/475395/1" />
   <project path="hardware/lineage/interfaces" name="LineageOS/android_hardware_lineage_interfaces" remote="lineageos" />
   <project path="packages/apps/EuiccPolicy" name="LineageOS/android_packages_apps_EuiccPolicy" remote="lineageos" />
   <project path="packages/apps/Aperture" name="LineageOS/android_packages_apps_Aperture" remote="lineageos" />
