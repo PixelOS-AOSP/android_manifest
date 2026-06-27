@@ -14,6 +14,8 @@
   <project path="external/vim" name="LineageOS/android_external_vim" remote="lineageos" />
   <project path="hardware/lineage/compat" name="LineageOS/android_hardware_lineage_compat" remote="lineageos" />
   <project path="hardware/lineage/interfaces" name="LineageOS/android_hardware_lineage_interfaces" remote="lineageos" />
+  <project path="hardware/google/pixel" name="LineageOS/android_hardware_google_pixel" remote="lineageos" />
+  <project path="hardware/google/pixel-sepolicy" name="LineageOS/android_hardware_google_pixel-sepolicy" remote="lineageos" />
   <project path="packages/apps/EuiccPolicy" name="LineageOS/android_packages_apps_EuiccPolicy" remote="lineageos" />
   <project path="packages/apps/Aperture" name="LineageOS/android_packages_apps_Aperture" remote="lineageos" />
   <project path="packages/apps/FMRadio" name="LineageOS/android_packages_apps_FMRadio" remote="lineageos" />
