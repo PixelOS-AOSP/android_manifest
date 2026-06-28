@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "df98998c_bbde4e39",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 2
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 1000053
+      },
+      "writtenOn": "2026-06-28T03:27:29Z",
+      "side": 1,
+      "message": "it would probably be better to add initial changes on top of a clean base instead",
+      "revId": "e95aa7594e311f1545d8ae0888913470aea46682",
+      "serverId": "58543e18-2196-4633-8043-7787712585ad"
+    }
+  ]
+}
