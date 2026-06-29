@@ -43,10 +43,12 @@
   <remove-project name="platform/system/chre" />
   <remove-project name="platform/system/core" />
   <remove-project name="platform/system/extras" />
+  <remove-project name="platform/system/fs/fs_mgr" />
   <remove-project name="platform/system/logging" />
   <remove-project name="platform/system/libziparchive" />
   <remove-project name="platform/system/media" />
   <remove-project name="platform/system/memory/libmeminfo" />
+  <remove-project name="platform/system/netd" />
   <remove-project name="platform/system/security" />
   <remove-project name="platform/system/sepolicy" />
   <remove-project name="platform/system/update_engine" />
