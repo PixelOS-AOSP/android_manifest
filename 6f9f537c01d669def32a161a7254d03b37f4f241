@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "be04e2bf_8f88d7ed",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 1000018
+      },
+      "writtenOn": "2026-06-29T09:42:17Z",
+      "side": 1,
+      "message": "Will track it from PixelOS-AOSP soon",
+      "revId": "6f9f537c01d669def32a161a7254d03b37f4f241",
+      "serverId": "58543e18-2196-4633-8043-7787712585ad"
+    }
+  ]
+}
