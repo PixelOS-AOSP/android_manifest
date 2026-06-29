@@ -19,7 +19,8 @@
   <project path="packages/apps/FMRadio" name="LineageOS/android_packages_apps_FMRadio" remote="lineageos" />
   <project path="packages/resources/devicesettings" name="LineageOS/android_packages_resources_devicesettings" remote="lineageos" />
   <project path="prebuilts/extract-tools" name="LineageOS/android_prebuilts_extract-tools" clone-depth="1" remote="lineageos" />
-  <project path="tools/extract-utils" name="LineageOS/android_tools_extract-utils" remote="lineageos" />
+  <project path="system/memory/libion" name="LineageOS/android_system_memory_libion" groups="pdk" remote="lineageos" />
+  <project path="tools/extract-utils" name="LineageOS/android_tools_extract-utils" revision="lineage-23.2" remote="lineageos" />
   <project path="vendor/apn" name="LineageOS/android_vendor_apn" revision="main" remote="lineageos" />
   <!-- Legacy AOSP additions -->
   <project path="external/tinyxml" name="platform/external/tinyxml" groups="pdk" remote="aosp" revision="refs/tags/android-11.0.0_r46" />
