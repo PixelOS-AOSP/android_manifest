@@ -75,6 +75,7 @@
   <project path="vendor/lineage" name="PixelOS-AOSP/android_vendor_lineage" remote="github" />
   <project path="vendor/custom" name="PixelOS-AOSP/android_vendor_custom" remote="github" />
   <project path="vendor/custom-preference" name="PixelOS-AOSP/android_vendor_custom-preference" remote="github" />
+  <project path="vendor/crowdin" name="PixelOS-AOSP/android_vendor_crowdin" remote="github" revision="l10n_main" />
 
   <!-- Tools -->
   <project path="lineage/scripts" name="PixelOS-AOSP/scripts" groups="tools" remote="github" revision="main" />
