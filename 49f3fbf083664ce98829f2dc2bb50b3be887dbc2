@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "e85f8f54_0cb917be",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 1000000
+      },
+      "writtenOn": "2026-08-20T07:18:19Z",
+      "side": 1,
+      "message": "For my pick, also depends on a separate git-repo change",
+      "revId": "49f3fbf083664ce98829f2dc2bb50b3be887dbc2",
+      "serverId": "58543e18-2196-4633-8043-7787712585ad"
+    }
+  ]
+}
