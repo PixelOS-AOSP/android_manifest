@@ -67,7 +67,6 @@
   <project path="system/libziparchive" name="PixelOS-AOSP/android_system_libziparchive" groups="pdk" remote="github" />
   <project path="system/media" name="PixelOS-AOSP/android_system_media" groups="pdk" remote="github" />
   <project path="system/memory/libmeminfo" name="PixelOS-AOSP/android_system_memory_libmeminfo" groups="pdk" remote="github" />
-  <project path="system/netd" name="PixelOS-AOSP/android_system_netd" groups="pdk" remote="github" />
   <project path="system/sepolicy" name="PixelOS-AOSP/android_system_sepolicy" groups="pdk" remote="github" />
   <project path="system/security" name="PixelOS-AOSP/android_system_security" groups="pdk" remote="github" />
   <project path="system/update_engine" name="PixelOS-AOSP/android_system_update_engine" groups="pdk" remote="github" />

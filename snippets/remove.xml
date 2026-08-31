@@ -53,7 +53,6 @@
   <remove-project name="platform/system/media" />
   <remove-project name="platform/system/memory/libion" />
   <remove-project name="platform/system/memory/libmeminfo" />
-  <remove-project name="platform/system/netd" />
   <remove-project name="platform/system/security" />
   <remove-project name="platform/system/sepolicy" />
   <remove-project name="platform/system/update_engine" />
