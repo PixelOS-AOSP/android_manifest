@@ -8,6 +8,7 @@
   <remove-project name="platform/bootable/deprecated-ota" />
   <remove-project name="platform/bootable/recovery" />
   <remove-project name="platform/development" />
+  <remove-project name="platform/external/aac" />
   <remove-project name="platform/external/avb" />
   <remove-project name="platform/external/bouncycastle" />
   <remove-project name="platform/external/conscrypt" />
@@ -17,6 +18,7 @@
   <remove-project name="platform/external/e2fsprogs" />
   <remove-project name="platform/external/freetype" />
   <remove-project name="platform/external/gptfdisk" />
+  <remove-project name="platform/external/hplip" />
   <remove-project name="platform/external/libcupsfilters" />
   <remove-project name="platform/external/libhevc" />
   <remove-project name="platform/external/libjxl" />
@@ -25,6 +27,7 @@
   <remove-project name="platform/external/libppd" />
   <remove-project name="platform/external/mksh" />
   <remove-project name="platform/external/tinycompress" />
+  <remove-project name="platform/external/tremolo" />
   <remove-project name="platform/external/wpa_supplicant_8" />
   <remove-project name="platform/external/zstd" />
   <remove-project name="platform/frameworks/av" />
@@ -38,13 +41,17 @@
   <remove-project name="platform/hardware/qcom/wlan" />
   <remove-project name="platform/hardware/st/nfc" />
   <remove-project name="platform/packages/apps/ContactsPicker" />
+  <remove-project name="platform/packages/apps/ManagedProvisioning" />
   <remove-project name="platform/packages/apps/Settings" />
   <remove-project name="platform/packages/apps/TV" />
   <remove-project name="platform/packages/modules/adb" />
   <remove-project name="platform/packages/modules/Bluetooth" />
   <remove-project name="platform/packages/modules/Connectivity" />
+  <remove-project name="platform/packages/modules/IntentResolver" />
   <remove-project name="platform/packages/modules/Nfc" />
+  <remove-project name="platform/packages/modules/NeuralNetworks" />
   <remove-project name="platform/packages/modules/Permission" />
+  <remove-project name="platform/packages/modules/Profiling" />
   <remove-project name="platform/packages/modules/Telephony" />
   <remove-project name="platform/packages/modules/UprobeStats" />
   <remove-project name="platform/packages/modules/Uwb" />
@@ -55,6 +62,8 @@
   <remove-project name="platform/packages/providers/TelephonyProvider" />
   <remove-project name="platform/packages/services/BuiltInPrintService" />
   <remove-project name="platform/packages/services/DeviceAsWebcam" />
+  <remove-project name="platform/packages/services/Iwlan" />
+  <remove-project name="platform/packages/services/Mms" />
   <remove-project name="platform/packages/services/Telecomm" />
   <remove-project name="platform/packages/services/Telephony" />
   <remove-project name="platform/system/bpf" />
@@ -75,4 +84,5 @@
   <remove-project name="platform/system/sepolicy" />
   <remove-project name="platform/system/update_engine" />
   <remove-project name="platform/system/vold" />
+  <remove-project name="trusty/lib" />
 </manifest>
